@@ -1,0 +1,28 @@
+.last {
+    background-image: url("colorful_background1.gif");
+}
+.intro {
+    background-image: url("gifbackground2.gif");
+    
+}
+.good {
+    background-image: url("colorful_background1.jpeg");
+}
+p {
+    background: beige; 
+}
+li {
+    background: beige;
+}
+h1 {
+    background:beige;
+    text-align: center;
+    border-style: outset;
+    margin: 10px
+}
+h3 {
+    background: beige;
+    text-align: center;
+    border-style: outset;
+    margin: 10px
+}
